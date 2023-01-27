@@ -1,5 +1,8 @@
 # クリック連打ツールの作り方
 
+**目次**
+{:toc}
+
 ## 事前準備１：Pythonのインストール
 
 公式ページ（https://www.python.org/）に行って「Downloads」から「Download for Windows」の「Python 3.11.1」をクリックし、取得した.exeファイルを実行する
