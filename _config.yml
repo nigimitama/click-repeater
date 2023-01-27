@@ -1,5 +1,8 @@
 title: クリック連打ツールの作り方
-remote_theme: just-the-docs/just-the-docs
 url: https://nigimitama.github.io/click-repeater
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+- jekyll-remote-theme 
 
 search_enabled: false
