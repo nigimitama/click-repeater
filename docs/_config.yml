@@ -1,6 +1,6 @@
 title: クリック連打ツールの作り方
 url: https://nigimitama.github.io/click-repeater
-
+description:
 
 # remote_theme: just-the-docs/just-the-docs
 remote_theme: pages-themes/leap-day@v0.2.0
