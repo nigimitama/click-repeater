@@ -3,7 +3,7 @@
 # 1. 事前準備
 ## 1-1. Pythonのインストール
 
-公式ページ（https://www.python.org/）に行って「Downloads」から「Download for Windows」の「Python 3.11.1」をクリックし、取得した.exeファイルを実行する
+公式ページ（[https://www.python.org/](https://www.python.org/)）に行って「Downloads」から「Download for Windows」の「Python 3.11.1」をクリックし、取得した.exeファイルを実行する
 
 ![image-20230127080259105](index.assets/image-20230127080259105.png)
 
